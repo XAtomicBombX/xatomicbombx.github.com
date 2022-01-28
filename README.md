@@ -1,1 +1,1 @@
-# xatomicbombx.github.com
+# This is AtomicBomb.
